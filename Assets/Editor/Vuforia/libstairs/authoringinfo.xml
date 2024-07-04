@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-16.6204 -9.4734 -10.9720 7.4660 1.1378 2.0506" targetId="7fa3d95afc704a1faa6def30a9345ec4" name="libstairs" pathAuthoring="7fa3d95afc704a1faa6def30a9345ec4_authoring.glb" pathOcclusion="7fa3d95afc704a1faa6def30a9345ec4_occlusion.3dt" pathNavMesh="7fa3d95afc704a1faa6def30a9345ec4_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

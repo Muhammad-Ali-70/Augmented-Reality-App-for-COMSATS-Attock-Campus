@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-13.0930 -5.5032 12.7116 7.6037 2.6798 38.3571" targetId="d5bd5c5ffe09466d8140375f7aaa549d" name="cs_front_1" pathAuthoring="d5bd5c5ffe09466d8140375f7aaa549d_authoring.glb" pathOcclusion="d5bd5c5ffe09466d8140375f7aaa549d_occlusion.3dt" pathNavMesh="d5bd5c5ffe09466d8140375f7aaa549d_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

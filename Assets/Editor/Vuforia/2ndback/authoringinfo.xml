@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-29.2609 -7.6364 5.9431 9.5602 4.1399 49.8397" targetId="c000a0aa7dbe44bcb2f64fbc3d3f5fe4" name="2ndback" pathAuthoring="c000a0aa7dbe44bcb2f64fbc3d3f5fe4_authoring.glb" pathOcclusion="c000a0aa7dbe44bcb2f64fbc3d3f5fe4_occlusion.3dt" pathNavMesh="c000a0aa7dbe44bcb2f64fbc3d3f5fe4_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
